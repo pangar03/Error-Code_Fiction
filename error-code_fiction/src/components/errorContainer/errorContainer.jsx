@@ -16,7 +16,7 @@ const ErrorContainer = ({
             className={`${displayError ? "flex" : "hidden"} w-full h-full bg-[#7e232395] justify-start items-start rounded-lg p-4`}
         >
             <h3
-                className="font-regular text-xl text-[#ff4141] text-left"
+                className="font-regular text-xs text-[#ff4141] text-left md:text-lg"
                 id="questionContainer"
             ></h3>
         </div>

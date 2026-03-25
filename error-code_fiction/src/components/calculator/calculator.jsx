@@ -97,7 +97,7 @@ const Calculator = () => {
 
     return (
         <>
-            <section className="w-3/4 bg-[#0e0c22] h-[95%] m-auto backdrop-blur-lg opacity-80 rounded-lg flex flex-col justify-start items-start px-4 py-6">
+            <section className="lg:w-3/4 w-[95%] bg-[#0e0c22] h-[95%] m-auto backdrop-blur-lg opacity-80 rounded-lg flex flex-col justify-start items-start px-4 py-6">
                 <div className="flex w-full">
                     <div className="border-b-2 border-[#f6845c]">
                         <h3 className="text-[#f6845c] font-semibold">
